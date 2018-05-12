@@ -1,16 +1,22 @@
 _repo: Discorso-sopra-la-calamita_48352
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Favaro, Antonio
       gutenberg_agent_id: '44750'
       url: http://www.gutenberg.org/2009/agents/44750
+covers:
+- cover_type: archival
+  image_path: 48352-h/images/cover.jpg
 creator:
   author:
     agent_name: Castelli, Benedetto
     gutenberg_agent_id: '44749'
     url: http://www.gutenberg.org/2009/agents/44749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48352#Discorso-sopra-la-calamita
 gutenberg_bookshelf: IT Scienza
 gutenberg_issued: '2015-02-24'
 gutenberg_type: Text
